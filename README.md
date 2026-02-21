@@ -1,27 +1,27 @@
- SpaceX Launch Site Location Analysis
+ # SpaceX Launch Site Location Analysis
 
 This project was completed as part of the IBM Data Science Professional Certificate.
 
- Project Overview
+# Project Overview
 
 This notebook analyzes SpaceX launch site locations and visualizes them using interactive maps. The goal was to explore geographic distribution of launch sites and apply geospatial data analysis techniques.
 
-Tools Used
+# Tools Used
 
-Python
+-Python
 
-Pandas
+-Pandas
 
-Folium
+-Folium
 
-Jupyter Notebook
+-Jupyter Notebook
 
- Key Tasks
+ -Key Tasks
 
-Data cleaning and preprocessing
+-Data cleaning and preprocessing
 
-Extracting geographic coordinates
+-Extracting geographic coordinates
 
-Creating interactive maps
+-Creating interactive maps
 
 Visualizing launch site locations
